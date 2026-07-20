@@ -1,41 +1,23 @@
 class Solution {
 public:
-    vector<int> findNGE(vector<int>& arr) {
-        int n = arr.size();
-        vector<int> nge(n);
-        stack<int> st;
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && st.top() <= arr[i]) {
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        stack<int>st; // MONOTONIC STACK
+        unordered_map<int, int>mp;
+
+
+        for(int i=nums2.size()-1 ; i>=0;i--){
+            while(!st.empty() && nums2[i] >= st.top()){
                 st.pop();
             }
 
-            if (st.empty())
-                nge[i] = -1;
-            else
-                nge[i] = st.top();
+            mp[nums2[i]] = st.empty() ? -1 : st.top();  //[(1) - (3)]
 
-            st.push(arr[i]);
+            st.push(nums2[i]);
         }
+        vector<int>ans;
 
-        return nge;
-    }
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int n1 = nums1.size();
-        int n2 = nums2.size();
-        vector<int> ans;
-
-        vector<int> ng = findNGE(nums2);
-
-        for (int i = 0; i < n1; i++) {
-            for (int j = 0; j < n2; j++) {
-                if (nums1[i] == nums2[j]) {
-                    ans.push_back(j);
-                }
-            }
-        }
-
-        for (int i = 0; i < ans.size(); i++) {
-            ans[i] = ng[ans[i]];
+        for(int x : nums1){
+            ans.push_back(mp[x]);
         }
 
         return ans;
