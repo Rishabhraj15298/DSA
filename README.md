@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rishabhraj15298/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhraj15298/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1306-jump-game-iii](https://github.com/Rishabhraj15298/DSA/tree/master/1306-jump-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rishabhraj15298/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -88,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabhraj15298/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
