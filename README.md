@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishabhraj15298/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhraj15298/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Rishabhraj15298/DSA/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0503-next-greater-element-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0113-path-sum-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0113-path-sum-ii) |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
