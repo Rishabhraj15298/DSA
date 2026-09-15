@@ -1,53 +1,74 @@
 class Solution {
 public:
-    bool TopologicalSort(unordered_map<int , vector<int>>&adj , int n , vector<int>&indegree){
+    // bool TopologicalSort(unordered_map<int , vector<int>>&adj , int n , vector<int>&indegree){
 
-        queue<int>q;
-        int cnt =0;
+        
+    //     if(cnt == n){
+    //         return true;
+    //     }
+    //     else{
+    //         return false;
+    //     }
+    // }
+    bool isCycleDFS(unordered_map <int , vector<int>>&adj , int u , vector<bool>&visited , vector<bool>&inRecursion){
 
-        for(int i =0;i<n;i++){
-            if(indegree[i] == 0){
-                q.push(i);
+        visited[u] = true;
+
+        inRecursion[u ]= true;
+        
+        for(int &v : adj[u]){
+            if(!visited[v] && isCycleDFS(adj , v, visited , inRecursion)){
+                return true;
+            }
+            else if (inRecursion[v] == true){
+                return true;
             }
         }
-    
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-            cnt++;
-            for(int &v : adj[u]){
-                 indegree[v] --;
-                 if(indegree[v] ==0){
-                    
-                    q.push(v);
-                }
-            }
-           
-        }
-        if(cnt == n){
-            return true;
-        }
-        else{
-            return false;
-        }
+        inRecursion[u] = false;
+        return false;
+
     }
-    
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         
        
 
-        unordered_map<int , vector<int >>adj;
-        vector<int>indegree(numCourses , 0);
+    //     unordered_map<int , vector<int >>adj;
+    //     vector<bool>visited(numCourses , false);
+    //     stack<int>st;
+
+
+    //     for(auto & i : prerequisites){
+    //         int u = i[1];
+    //         int v = i[0];
+
+    //         adj[u].push_back(v);
+
+
+    //     }
+
+    //     return TopologicalSort(adj , numCourses , visited);
+    // }
+
+    unordered_map<int , vector<int>>adj;
+    vector<bool>inRecursion(numCourses , false);
+    vector<bool>visited(numCourses , false);
 
         for(auto & i : prerequisites){
             int u = i[1];
             int v = i[0];
 
             adj[u].push_back(v);
-            indegree[v]++;
+
 
         }
 
-        return TopologicalSort(adj , numCourses , indegree);
+        for(int i = 0 ;i<numCourses ;i++){
+            if(!visited[i] && isCycleDFS(adj , i , visited , inRecursion)){
+                return false; // qki cycle detect ho gya h
+            }
+
+        }
+        return true;
     }
+    
 };
