@@ -45,7 +45,7 @@ public:
             if(!visited[v]  ){
                 DFS(adj , v , visited , inRecursion , st);
             }
-            if(inRecursion[v] == true){
+            if(visited[v] == true && inRecursion[v] == true){
                 hasCycle = true;
                 return;
             }
