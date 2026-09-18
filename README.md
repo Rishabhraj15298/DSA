@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rishabhraj15298/DSA/tree/master/0009-palindrome-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabhraj15298/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
