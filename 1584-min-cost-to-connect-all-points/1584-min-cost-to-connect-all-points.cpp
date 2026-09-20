@@ -6,7 +6,7 @@ public:
 
         int n = points.size();
 
-        unordered_map<int, vector<vector<int>>> adj;
+       vector<vector<P>>adj(n);
 
         // Build complete graph
         for(int i = 0; i < n; i++) {
@@ -48,8 +48,8 @@ public:
 
             for(auto &it : adj[node]) {
 
-                int adjNode = it[0];
-                int dist = it[1];
+                int adjNode = it.first;
+                int dist = it.second;
 
                 if(!inMST[adjNode]) {
                     pq.push({dist, adjNode});
