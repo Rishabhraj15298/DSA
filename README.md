@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rishabhraj15298/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhraj15298/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rishabhraj15298/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Rishabhraj15298/DSA/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Rishabhraj15298/DSA/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Rishabhraj15298/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishabhraj15298/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
