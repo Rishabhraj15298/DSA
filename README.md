@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rishabhraj15298/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Rishabhraj15298/DSA/tree/master/1765-map-of-highest-peak) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rishabhraj15298/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Rishabhraj15298/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rishabhraj15298/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Rishabhraj15298/DSA/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rishabhraj15298/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Two Pointers
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Rishabhraj15298/DSA/tree/master/1765-map-of-highest-peak) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
