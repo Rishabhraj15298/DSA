@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Rishabhraj15298/DSA/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rishabhraj15298/DSA/tree/master/0735-asteroid-collision) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhraj15298/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Rishabhraj15298/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Greedy
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Rishabhraj15298/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
