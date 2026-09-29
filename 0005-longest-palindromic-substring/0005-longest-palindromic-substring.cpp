@@ -5,10 +5,11 @@ public:
         if(i>=j){
             return 1;
         }
-        if(t[i][j] != -1 ) return t[i][j];
+       
         if(s[i] == s[j]){
             return t[i][j] = check(s , i+1 , j-1);
         }
+         if(t[i][j] != -1 ) return t[i][j];
         return t[i][j] = 0;
     }
     string longestPalindrome(string s) {
