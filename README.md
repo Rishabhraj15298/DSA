@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Rishabhraj15298/DSA/tree/master/0134-gas-station) |
+| [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rishabhraj15298/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
