@@ -11,34 +11,24 @@
  */
 class Solution {
 public:
-    int solve(TreeNode*root , int &maxSum){
-        if(root == NULL){
+    int ans = INT_MIN;
+    int solve(TreeNode*root){
+        if(root == NULL ){
             return 0;
         }
 
-        int l = solve(root->left , maxSum);
-        int r = solve(root->right , maxSum);
-
-        int neeche_hi_max = l + r + root->val;
-
-        int root_hi_max = root->val;
-
-        int dono_me_se_ek = max(l,r) + root->val;
-
-        maxSum = max({maxSum , neeche_hi_max ,root_hi_max , dono_me_se_ek});
-        // isme hmlog neeche hi max waale ko nhi return kr skte qki jb ans niche hi h toh upar q jaayenge..
-
-        return max(root_hi_max , dono_me_se_ek) ;
+        int left =max(0,solve(root->left));
+        int right = max(0 , solve(root->right));
+        int d = root->val;
+        int a = left + root->val;
+        int b = right + root->val;
+        int c = left + right + root->val;
+        ans = max({ans , a,b,c ,d});
+        return root->val + max(left,right);
     }
     int maxPathSum(TreeNode* root) {
-        
-        int maxSum = INT_MIN;
-
-        solve(root , maxSum);
-
-        return maxSum;
-
-        
-        
+        if(root == NULL)return 0;
+        solve(root);
+        return ans ; 
     }
 };
