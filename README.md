@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhraj15298/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0130-surrounded-regions](https://github.com/Rishabhraj15298/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rishabhraj15298/DSA/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Rishabhraj15298/DSA/tree/master/0200-number-of-islands) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rishabhraj15298/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Rishabhraj15298/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishabhraj15298/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/Rishabhraj15298/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishabhraj15298/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rishabhraj15298/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rishabhraj15298/DSA/tree/master/0207-course-schedule) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Rishabhraj15298/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rishabhraj15298/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rishabhraj15298/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rishabhraj15298/DSA/tree/master/0785-is-graph-bipartite) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Rishabhraj15298/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Rishabhraj15298/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/0542-01-matrix) |
