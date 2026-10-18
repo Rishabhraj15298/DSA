@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rishabhraj15298/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhraj15298/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabhraj15298/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rishabhraj15298/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/Rishabhraj15298/DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
