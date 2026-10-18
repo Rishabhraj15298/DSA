@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Rishabhraj15298/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabhraj15298/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -461,8 +464,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
