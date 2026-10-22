@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Rishabhraj15298/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rishabhraj15298/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhraj15298/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishabhraj15298/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhraj15298/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Rishabhraj15298/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Longest Increasing Subsequence
 |  |
