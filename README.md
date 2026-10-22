@@ -515,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rishabhraj15298/DSA/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/Rishabhraj15298/DSA/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
