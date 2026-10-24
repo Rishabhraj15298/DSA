@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rishabhraj15298/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Rishabhraj15298/DSA/tree/master/0733-flood-fill) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Rishabhraj15298/DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rishabhraj15298/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
