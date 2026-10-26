@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rishabhraj15298/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
 |  |
@@ -533,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/Rishabhraj15298/DSA/tree/master/1661-average-time-of-process-per-machine) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rishabhraj15298/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
