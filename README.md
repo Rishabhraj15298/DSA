@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishabhraj15298/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rishabhraj15298/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Rishabhraj15298/DSA/tree/master/0062-unique-paths) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabhraj15298/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishabhraj15298/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabhraj15298/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
@@ -537,5 +539,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishabhraj15298/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabhraj15298/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
