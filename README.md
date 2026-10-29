@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Rishabhraj15298/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rishabhraj15298/DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/Rishabhraj15298/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rishabhraj15298/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rishabhraj15298/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Rishabhraj15298/DSA/tree/master/0994-rotting-oranges) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Rishabhraj15298/DSA/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Rishabhraj15298/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Backtracking
