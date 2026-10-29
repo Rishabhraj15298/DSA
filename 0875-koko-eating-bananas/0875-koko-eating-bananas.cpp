@@ -1,35 +1,38 @@
 class Solution {
 public:
-    bool canEat(vector<int>&piles , int mid , int h){
-        int time = 0;
+    bool canEat(vector<int>& piles, int mid, int h) {
+    long long time = 0;  // Change here
 
-        for(int x : piles){
-            time += x/mid;
+    for (int x : piles) {
+        time += x / mid;
 
-            if(x%mid != 0){
-                time++;
-            }
-
+        if (x % mid != 0) {
+            time++;
         }
-        return time <= h;
+
+        if (time > h) return false;  // Optional optimization
     }
-    int minEatingSpeed(vector<int>& piles, int h) {
-        
-        int s = 1;
-        int e = *max_element(begin(piles) , end(piles));
-     
 
-        while(s<e){
-            int mid = s+(e-s)/2;
-            if(canEat(piles , mid , h)){
-               
-                e = mid;
-            }
-            else {
-                s = mid+1;
+    return time <= h;
+}
+
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int s = 1;
+        int e = *max_element(begin(piles), end(piles));
+
+        int ans = -1;
+
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+
+            if (canEat(piles, mid, h)) {
+                ans = mid;
+                e = mid - 1;
+            } else {
+                s = mid + 1;
             }
         }
 
-        return s;
+        return ans;
     }
 };
