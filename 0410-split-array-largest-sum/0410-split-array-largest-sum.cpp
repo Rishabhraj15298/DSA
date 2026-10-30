@@ -6,13 +6,13 @@ public:
         for(int i =0;i<n;i++){
             if(nums[i] > mid)return false;
 
-            if((sum + nums[i] ) <= mid){
-                sum+=nums[i];
-            }
-            else{
-                st++;
-                sum = nums[i];
-            }
+           sum += nums[i];
+           if(sum > mid ){
+            st ++ ;
+            sum = nums[i];
+           }
+
+           
         }
         return st > k ? false : true;
     }
