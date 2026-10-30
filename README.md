@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Rishabhraj15298/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rishabhraj15298/DSA/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Rishabhraj15298/DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Rishabhraj15298/DSA/tree/master/0542-01-matrix) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Rishabhraj15298/DSA/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Rishabhraj15298/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0410-split-array-largest-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishabhraj15298/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhraj15298/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhraj15298/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Rishabhraj15298/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Rishabhraj15298/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishabhraj15298/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhraj15298/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Rishabhraj15298/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Longest Increasing Subsequence
