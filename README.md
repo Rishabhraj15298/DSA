@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rishabhraj15298/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishabhraj15298/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Rishabhraj15298/DSA/tree/master/0031-next-permutation) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabhraj15298/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabhraj15298/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhraj15298/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
