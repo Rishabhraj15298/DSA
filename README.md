@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rishabhraj15298/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rishabhraj15298/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishabhraj15298/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabhraj15298/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Rishabhraj15298/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rishabhraj15298/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rishabhraj15298/DSA/tree/master/0075-sort-colors) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabhraj15298/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabhraj15298/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabhraj15298/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhraj15298/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishabhraj15298/DSA/tree/master/0876-middle-of-the-linked-list) |
